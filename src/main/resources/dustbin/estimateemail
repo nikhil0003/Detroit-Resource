@@ -1,0 +1,190 @@
+<!-- 
+   Online HTML, CSS and JavaScript editor to run code online.
+   -->
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="style.css" />
+      <title>Auction Shipper</title>
+   </head>
+   <body>
+      <div dir="ltr">
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255)">
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin-right:0in;margin-left:0in;font-size:12pt;font-family:Arial,Helvetica,sans-serif;margin:0in;background:white">
+            <span style="font-family:Arial,Helvetica,sans-serif;color:black;border:none windowtext 1.0pt;padding:0in"></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Congratulations!&nbsp; Thank you for contacting The UPS Store in Downtown Detroit.
+            </span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in"><br>
+            Based on the available information, we have developed an estimate as follows:&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Lot#:&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <div><br></div>
+        <div>Lot 139 Waterford Cut Crystal Bowl And Rose Bowl, 20th C., H 5.25" And H 3.25", Lot includes one Glandore pattern rose bowl having a height of 5.25" and a diameter of 5.75". Rose bowl marked Waterford on the underside. The second
+            bowl is signed Waterford at the rim and is designed with a repetitious diamond pattern. Having a height of 3.25" and a diameter of 8"
+         </div>
+         <div><br></div>
+         <div>Lot 139 Waterford Cut Crystal Bowl And Rose Bowl, 20th C., H 5.25" And H 3.25", Lot includes one Glandore pattern rose bowl having a height of 5.25" and a diameter of 5.75". Rose bowl marked Waterford on the underside. The second
+            bowl is signed Waterford at the rim and is designed with a repetitious diamond pattern. Having a height of 3.25" and a diameter of 8"
+         </div>
+         <div><br></div>
+         <div>Lot 194 Sevres, French Porcelain Plate Signed Gebrie, 19Th.C Dia 9 1/2"</div>
+         <div><br></div>
+         <div><img size="10091" style="max-width:100%">&nbsp;&nbsp;<img size="4984" style="max-width:100%">&nbsp;&nbsp;<img size="15791" style="max-width:100%"><br></div>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px"></p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Ship to:&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">Mary Eifler</span></span>
+         </p>
+         <div>5207 Moccasin Trail</div>
+         <div>Louisville, Kentucky 40207</div>
+         <div><br></div>
+         <div><a href="mailto:maryeif@aol.com" rel="noreferrer" target="_blank">maryeif@aol.com</a><br></div>
+         <div><br></div>
+         5028958203
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px"></p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span style="color:black;font-family:Arial,sans-serif;font-size:12pt">&nbsp;</span><br>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Declared Value: none&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Assumptions:&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Weights, lbs:&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;20,
+            15</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Box Size:&nbsp;
+            </span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;x-large pic box, med box (bubble wrapped, cushioned, double boxed)</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">The total estimated cost to pick up, pack, and ship via UPS ground is $AAA(Transit time: 5-8 business
+            days). &nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><b><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">To confirm this pickup, please respond to this email stating that you authorize us to retrieve
+            your lot from Dumouchelle's.&nbsp;</span></b></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Once your lot is picked up, we will make every effort to minimize the shipping costs and convey any
+            changes to you.&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Please let us know if you have any questions.&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">&nbsp;&nbsp;</span></span><span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span></span>
+         </p>
+         <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin:0in 0in 8pt;font-size:12pt;font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;margin-left:0in;margin-bottom:0in;background:white">
+            <span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black;border:none windowtext 1.0pt;padding:0in">Thank you and have a wonderful day!&nbsp;</span></span><span></span><span style="font-size:12.0pt;font-family:Arial,Helvetica,sans-serif;;color:black">&nbsp;</span>
+         </p>
+         <br>
+      </div>
+      <div>
+         <div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+            <br>
+         </div>
+         <div id="m_2261677898239008863m_4127929104273113034x_Signature">
+            <div>
+               <div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255)">
+                  <b style="color:rgb(200,38,19);font-family:inherit;font-size:inherit;font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit"><br>
+                  </b>
+               </div>
+               <div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0);background-color:rgb(255,255,255)">
+                  <b style="font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit;color:rgb(12,100,192);font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;font-size:10pt">Stay Safe.&nbsp; Keep Safe.</b><br>
+               </div>
+               <div id="m_2261677898239008863m_4127929104273113034x_divtagdefaultwrapper" dir="ltr" style="font-size:12pt;color:rgb(0,0,0);font-size:16px;margin:1.5em 0px;padding:0px">
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <b style="font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit;color:rgb(12,100,192);font-family:Arial,Helvetica,sans-serif,serif;margin-right:0in;font-size:10pt"><br>
+                        </b>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <span style="margin:0px;font-size:10pt;font-family:Arial,sans-serif">Sincerely,</span>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <span style="margin:0px;font-size:10pt;font-family:Arial,sans-serif">The UPS Store in Downtown Detroit</span>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <span style="margin:0px;font-size:10pt;font-family:Arial,sans-serif"><br>
+                        </span>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <span style="margin:0px;font-size:10pt;font-family:Arial,sans-serif">Devyani P Bhatt</span>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <br>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        535 Griswold St
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        Ste 111
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        Detroit, Michigan 48226
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        313.963.7080
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        <a href="mailto:store5676@theupsstore.com" rel="noreferrer" target="_blank">store5676@theupsstore.com</a>
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        Hours:&nbsp;
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        M-F 9am-7.30pm
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        Sat 9am-2.30pm
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        Sun Closed
+                     </p>
+                     <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;color:rgb(0,0,0);font-weight:400;text-align:start;background-color:rgb(255,255,255);margin-top:0px;margin-bottom:0px">
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                     </p>
+                  </div>
+                  <p style="margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px;margin-top:0px;margin-bottom:0px"></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>

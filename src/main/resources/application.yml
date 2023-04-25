@@ -1,0 +1,39 @@
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: INFO
+    
+spring:
+  datasource:
+    url : jdbc:mysql://localhost:3306/detroitauctionshippers
+    username: admin    
+    password: admin
+  jpa :
+    hibernate:
+      ddl-auto: create
+      
+      
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:9000
+          jwk-set-uri: http://localhost:9000/oauth2/jwks
+          
+  mail:
+    properties:
+      mail:
+        smtp:
+          socketFactory:
+            port: '587'
+            class: javax.net.ssl.SSLSocketFactory
+            fallback: 'true'
+          auth: 'true'
+          starttls : 
+            enable : 'true'
+    host: smtp.office365.com
+    username: arenelliyadagiri@outlook.com
+    password: Lkjhg@9989
